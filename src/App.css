@@ -1,5 +1,7 @@
-.App {
-  text-align: center;
+/* .App {
+  background-color: rgb(11, 11, 35);
+  
+  font-family: 'Nunito Sans', sans-serif;
 }
 
 .App-logo {
@@ -35,4 +37,11 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.App {
+ background-color: rgb(11, 11, 35);
+ font-family: 'Nunito Sans', sans-serif; 
+  
+  padding-top: 1px;
 }

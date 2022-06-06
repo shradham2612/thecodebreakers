@@ -1,10 +1,14 @@
-import './App.css';
-import Home from './routes/Home';
+import "./App.css";
+
+import Head from "./Components/head";
+import Card from "./Components/card_ab";
 
 function App() {
   return (
     <div className="App">
-      <Home />
+      {/* <Home /> */}
+      <Head />
+      <Card />
     </div>
   );
 }
